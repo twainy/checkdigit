@@ -61,7 +61,4 @@ public class CheckDigit {
         return sum;
     }
     
-
-    public static void testGetDoubleSumEventDigit() {
-    }
 }
